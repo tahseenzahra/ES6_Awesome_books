@@ -8,7 +8,7 @@ Awesome books is a project where we can add the list of books and store it at lo
 
 ## Live Project
 
-[Click here to view]()
+[Click here to view](https://tahseenzahra.github.io/ES6_Awesome_books/)
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ View the file through the source code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/tahseenzahra/ES6_Awesome_books/issues).
 
 ## Show your support
 
